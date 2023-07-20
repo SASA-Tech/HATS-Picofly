@@ -8,8 +8,8 @@
 ![Hekate](./Screenshot/Hekate.png)
 ![Launch](./Screenshot/Launch.png)
 
-##### I server Nintendo sono stati bloccati preventivamente e il seriale della console è stato sbiancato per ridurre al minimo il rischio di ban
-#### *Il pacchetto contiene:*
+## Il pacchetto contiene:
+###### Homebrew:
 - [x] Hekate bootloader
 - [x] Atmosphère CFW
 - [x] Tinfoil
@@ -28,4 +28,11 @@
 - [x] Linkalho
 - [x] nxdumptool
 - [x] nxshell
+- [x] USB File Transfer
 
+ ###### Payloads:
+ - [x] Lockpick_RCM
+ - [x] picofly_toolbox_0.2
+ - [x] prodinfo_gen
+
+#### *I server Nintendo sono stati bloccati preventivamente e il seriale della console è stato sbiancato per ridurre al minimo il rischio di ban.*
