@@ -28,7 +28,7 @@
 - [x] Linkalho
 - [x] nxdumptool
 - [x] nxshell
-- [x] USB File Transfer
+- [x] sys-clk-manager
 
  ###### Payloads:
  - [x] Lockpick_RCM
