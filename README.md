@@ -6,6 +6,7 @@
 
 ## Pacchetto HATS precompilato per Nintendo Switch - Picofly -
 ![Hekate](./Screenshot/Hekate.png)
+![Launch](./Screenshot/Launch.png)
 
 ##### I server Nintendo sono stati bloccati preventivamente e il seriale della console è stato sbiancato per ridurre al minimo il rischio di ban
 #### *Il pacchetto contiene:*
