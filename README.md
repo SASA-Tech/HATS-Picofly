@@ -3,7 +3,6 @@
 [![](https://img.shields.io/badge/Modder-SASATech-informational?style=flat&logo=telegram&logoColor=white&color=5fb659)](https://t.me/SASA_Tech)
 [![](https://img.shields.io/badge/Instagram-SASATech-informational?style=flat&logo=instagram&logoColor=white&color=FF8C00)](https://www.instagram.com/sasa.tech/)
 [![](https://img.shields.io/badge/TikTok-SASATech-informational?style=flat&logo=tiktok&logoColor=white&color=800080)](https://www.tiktok.com/@sasa.tech)
-### *Read in other language: [English](README.EN.md).* :🇺🇸
 
 ## Pacchetto HATS precompilato per Nintendo Switch - Picofly -
 ![Hekate](./Screenshot/Hekate.png)
